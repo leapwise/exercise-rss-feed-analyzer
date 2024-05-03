@@ -1,0 +1,7 @@
+com\exercise\rssfeedanalyzer\service\AnalyzerService.class
+com\exercise\rssfeedanalyzer\repository\AnalyzerRepository.class
+com\exercise\rssfeedanalyzer\model\dto\TopicDTO.class
+com\exercise\rssfeedanalyzer\controller\AnalyzerController.class
+com\exercise\rssfeedanalyzer\model\entity\TopicEntity.class
+com\exercise\rssfeedanalyzer\model\dto\TopicDetailsDTO.class
+com\exercise\rssfeedanalyzer\service\impl\AnalyzerServiceImpl.class
